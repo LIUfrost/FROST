@@ -21,4 +21,8 @@
 - [Advent to Code](https://adventofcode.com):趣味编程解密网站，每天全球几十万程序员同时等新题。很多大厂工程师、算法高手、大学教授也在玩，是程序员节日一样的活动。
 - [Coursera](https://coursera.org):全球最大在线学习网站（世界版MOOC），众多名校，大厂在此开设课程（另有同名软件，已放仓库），跟着CS自学指南自会找到课程。
 - [Leetcode](https://leetcode.com):力扣，“老少皆宜”的编程刷题网站，无论是数据结构/算法初学者，还是准备面试的程序员，都可以获得很大帮助（同名软件自行应用商店下载）
+- [AI咨询日报](https://ai.hubtoday.app/):界面较简单，但信息有效。
+- [BestBlog](https://bestblogs.dev):Github上2.3k项目，分享计算机最新消息，内容全面，信息源多样，功能丰富。
+- [zread](https://zread.ai):将Github仓库的URL导入即可分析该仓库，功能强大。
+
 
